@@ -18,5 +18,5 @@ async def vc_menu(event):
                          Button.inline("SOURCE", data="source")],
                         [Button.inline("NOTICE.", data="notice"),
                          Button.inline("Main.", data="help")],
-                        [Button.url("💋 CREATER💋", url="t.me/INSIGHT_SURGE")]])
+                        [Button.url("💋 CREATER 💋", url="t.me/INSIGHT_SURGE")]])
     
